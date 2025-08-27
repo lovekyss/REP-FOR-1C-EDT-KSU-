@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="407496c9-cf00-4952-b488-6a370e3a7ea7">
+  <producedTypes>
+    <objectType typeId="bbe0a002-2335-4475-ab19-b3354ee68ff3" valueTypeId="adbcc625-d92f-482a-94a0-5c4c3eedf9c3"/>
+    <refType typeId="623814ec-d6b5-459e-9afe-eaba2dabb2c0" valueTypeId="1ff5eade-3ade-49d5-9c90-6e34fd865fd8"/>
+    <selectionType typeId="b5c6ca9a-b961-4454-810f-4d7954befa7e" valueTypeId="1b0569e1-1346-4ef8-82c4-ac2bec93f63a"/>
+    <listType typeId="b2975331-e05e-4db4-8242-afecc3f78ce3" valueTypeId="a4daa00d-bfb1-4b0c-b770-18942be556f0"/>
+    <managerType typeId="da76fc23-fb3e-4c8d-af86-4ef27fdd9b06" valueTypeId="6ba8c455-9afd-45f9-b3f8-e303a4191bd9"/>
+  </producedTypes>
+  <name>Ученики</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ученики</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Ученики.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Ученики.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
