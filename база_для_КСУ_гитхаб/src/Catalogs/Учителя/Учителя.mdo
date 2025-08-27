@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="781618e7-e533-4342-a6ea-d400ad7d2396">
+  <producedTypes>
+    <objectType typeId="cf244e3c-acb9-4b41-9d5f-aef475c42906" valueTypeId="3d9d4bfe-1cf5-435c-a8ee-a98b7cd31f3b"/>
+    <refType typeId="bb006a7d-ba65-495c-aeb6-35283c78d94c" valueTypeId="7407349c-88f2-4bc6-9287-ac74c19c89ad"/>
+    <selectionType typeId="96d2b1cb-d277-4a3a-8877-aafc31f9f5e7" valueTypeId="440f289c-74a0-429a-8259-6c55f02156ca"/>
+    <listType typeId="fc232070-ac72-4f91-a44b-f35e2bd660d2" valueTypeId="b2760dd7-0400-42c6-a2fa-67058fb25ae1"/>
+    <managerType typeId="22661f4a-6f59-4e84-b3b9-c911df9f7209" valueTypeId="d4ba32a7-8ac7-4b0f-924d-5531e6becd34"/>
+  </producedTypes>
+  <name>Учителя</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учителя</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Учителя.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Учителя.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Учитель</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
