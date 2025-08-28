@@ -7,14 +7,14 @@
     <listType typeId="b2975331-e05e-4db4-8242-afecc3f78ce3" valueTypeId="a4daa00d-bfb1-4b0c-b770-18942be556f0"/>
     <managerType typeId="da76fc23-fb3e-4c8d-af86-4ef27fdd9b06" valueTypeId="6ba8c455-9afd-45f9-b3f8-e303a4191bd9"/>
   </producedTypes>
-  <name>Ученикии</name>
+  <name>Ученики</name>
   <synonym>
     <key>ru</key>
-    <value>Ученикии</value>
+    <value>Ученики</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Ученикии.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Ученикии.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Ученики.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Ученики.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>

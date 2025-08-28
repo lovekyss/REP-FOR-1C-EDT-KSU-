@@ -40,5 +40,5 @@
   </languages>
   <catalogs>Catalog.Кабинеты</catalogs>
   <catalogs>Catalog.Учителя</catalogs>
-  <catalogs>Catalog.Ученикии</catalogs>
+  <catalogs>Catalog.Ученики</catalogs>
 </mdclass:Configuration>
