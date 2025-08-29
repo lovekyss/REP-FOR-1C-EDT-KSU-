@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="350d5c6e-c8d1-418a-a586-3346849f3f0c">
+  <producedTypes>
+    <objectType typeId="f6eb26ec-bad0-492a-8afe-5acb2d67148d" valueTypeId="be614028-97bc-47c9-9b77-9bf61d0d414c"/>
+    <refType typeId="f9b81999-1311-48e5-8206-3d313d6959d3" valueTypeId="d3ab5ca7-8767-49cd-8585-ad8cf037b20c"/>
+    <selectionType typeId="4575a2dc-6fcd-4f2d-9143-d7926a953498" valueTypeId="2eb248e6-47ae-4f06-b2c8-be7c91384671"/>
+    <listType typeId="5bdf0d23-bff9-48cc-8794-cbbac87af51a" valueTypeId="8ebdd609-0fd5-4b41-a71e-c8e05b1d44e1"/>
+    <managerType typeId="3fc2f5f3-690d-44e5-b59e-e52e8181e031" valueTypeId="a0306e6d-923f-4a53-9071-d3014a81db4b"/>
+  </producedTypes>
+  <name>Оценки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Оценки</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Оценки.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Оценки.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
